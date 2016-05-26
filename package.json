@@ -15,6 +15,7 @@
     "url": "https://github.com/reedog117/node-vsphere/issues"
   },
   "dependencies": {
+    "async": "^2.0.0-rc.5",
     "joi": "6.x.x",
     "lodash": "3.x.x",
     "node-vsphere-soap": "^0.0.2-5"
